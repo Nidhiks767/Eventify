@@ -7,19 +7,6 @@ Eventify is a comprehensive event management platform that allows users to creat
 - Role-Based Access Control
 - Event Discovery and Registration
 
-## Screenshots
-
-### 🖥️ Dashboard View
-![Dashboard](.client/src/assets/screenshots/screenshot1.png)
-
-### 📱 Mobile View
-![Mobile](.client/src/assets/screenshots/screenshot2.png)
-
-### 🖥️ Admin Panel
-![Admin Panel](.client/src/assets/screenshots/screenshot3.png)
-
-### 📱 Registration Page
-![Registration](.client/src/assets/screenshots/screenshot4.png)
 
 ## Tech Stack
 - **Frontend**: React / Next.js
